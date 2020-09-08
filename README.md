@@ -1,4 +1,1 @@
-# Weekly Reports
-
-## Week 1
-- 2313213
+# EE629 - IoT
