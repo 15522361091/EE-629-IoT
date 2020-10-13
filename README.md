@@ -3,8 +3,7 @@
 
 ### Weekly Reports
 
-#### Week 6
-#### Week 5
+
 #### Week 4
 #### Week 3
 [09-19-2020] Learn [IEEE Writing Style](https://journals.ieeeauthorcenter.ieee.org/your-role-in-article-production/ieee-editorial-style-manual/) via [Lu's PPT](https://docs.google.com/presentation/d/1TIWfYpBYfumA1rgMLDP6UkM7fC9rC8EK4up3Q28t6MQ/edit#slide=id.p4)  
