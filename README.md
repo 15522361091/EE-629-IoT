@@ -8,13 +8,13 @@
 ### Weekly Reports
 
 #### Week 8
-[10-21-2020] Run Node.js on Pi and PC ([Lab 6B](https://github.com/kevinwlu/iot/tree/master/lesson6)).
-[10-21-2020] Sign up Particle Cloud and connect Pi to Particle ([Lab 6A](https://github.com/kevinwlu/iot/tree/master/lesson6)).
+[10-21-2020] Run Node.js on Pi and PC ([Lab 6B](https://github.com/kevinwlu/iot/tree/master/lesson6)).  
+[10-21-2020] Sign up Particle Cloud and connect Pi to Particle ([Lab 6A](https://github.com/kevinwlu/iot/tree/master/lesson6)).  
 [10-20-2020] Learn about Alternative Devices on class.
 #### Week 7
-[10-15-2020] Install Django and start an Django project (Lab 4A).
+[10-15-2020] Install Django and start an Django project ([Lab 4A](https://github.com/kevinwlu/iot/tree/master/lesson4)).
 #### Week 6
-[10-06-2020] Install and run Docker on Pi (Lab 5A).
+[10-06-2020] Install and run Docker on Pi ([Lab 5A](https://github.com/kevinwlu/iot/tree/master/lesson5)).  
 [10-06-2020] Learn about WAMP, Crossbar.io, Docker, Paho and MQTT on class.
 #### Week 5
 [09-29-2020] Learn 2 Python Web Frames: Django and Flask on IoT class.
