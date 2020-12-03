@@ -7,6 +7,8 @@
 
 ### Weekly Reports
 
+#### Week 9
+[10-27-2020] 
 #### Week 8
 [10-21-2020] Run Node.js on Pi and PC ([Lab 6B](https://github.com/kevinwlu/iot/tree/master/lesson6)).  
 [10-21-2020] Sign up Particle Cloud and connect Pi to Particle ([Lab 6A](https://github.com/kevinwlu/iot/tree/master/lesson6)).  
