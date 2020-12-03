@@ -8,9 +8,9 @@
 ### Weekly Reports
 
 #### Week 9
-[10-26-2020] Purchase a breadboard kit(with jumper wires, LEDs, resistors etc.) from Amazon and a sensors kit(45 kinds of sensor) from eBay.
-[10-27-2020] Sign up Google Sheet and start a new spreadsheet rpidata([Lab 7B](https://github.com/kevinwlu/iot/tree/master/lesson7)).
-[10-27-2020] Sign up Thingspeak, creat a new channel and successfully upload data from local to channel([Lab 7A](https://github.com/kevinwlu/iot/tree/master/lesson7)).
+[10-26-2020] Purchase a breadboard kit(with jumper wires, LEDs, resistors etc.) from Amazon and a sensors kit(45 kinds of sensor) from eBay.  
+[10-27-2020] Sign up Google Sheet and start a new spreadsheet rpidata([Lab 7B](https://github.com/kevinwlu/iot/tree/master/lesson7)).  
+[10-27-2020] Sign up Thingspeak, creat a new channel and successfully upload data from local to channel([Lab 7A](https://github.com/kevinwlu/iot/tree/master/lesson7)).  
 [10-27-2020] Learn about several cloud platforms including ThingSpeak, Altair SmartWorks, Google Sheets and Beebotte etc. on class.
 #### Week 8
 [10-21-2020] Run Node.js on Pi and PC ([Lab 6B](https://github.com/kevinwlu/iot/tree/master/lesson6)).  
