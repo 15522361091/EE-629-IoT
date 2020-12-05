@@ -6,8 +6,17 @@
 
 
 ### Weekly Reports
-
+[11-28-2020] Try the new sensors and implement using sensors to control Leds.
+[11-24-2020] Miss a class because of Thanksgiving...
+#### Week 12
+[11-19-2020] Learn and try to use my Pi to control the Leds on the breadboard
+[11-17-2020] Learn more about Blockchain and digital p2p currency from google.
+[11-17-2020] Learn about Blockchain and review the knowledge teached on all the classes.
 #### Week 11
+[11-10-2020] Create and display a .png file via PlantUML, GIMT and Pinta([Lab 9A](https://github.com/kevinwlu/iot/tree/master/lesson9)).
+[11-10-2020] Install and run YANG and YIN([Lab 9A](https://github.com/kevinwlu/iot/tree/master/lesson9)).
+[11-10-2020] Learn about IoT system, YANG and NETCONF on class.
+[11-09-2020] Design and implement some simple circuits on the breadboard.
 [11-09-2020] Finish some previous experiments in lesson 2([Lab 2](https://github.com/kevinwlu/iot/tree/master/lesson2)).
 #### Week 10
 [11-08-2020] Connect new breadboard to my Pi and light a LED!  
