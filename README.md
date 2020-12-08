@@ -2,7 +2,9 @@
 ##### [Course Web](https://sites.google.com/view/ece629)
 
 ### Final Project
-### Control the LED with gestures basing on Deep Learning
+### Control the LEDs with gestures basing on Deep Learning
+#### Description
+Making different gestures in front of the camera to manipulate the LEDs - e.g. adjusting brightness, changing color.
 #### Programming Language
 Python
 #### Hardware Requirement
