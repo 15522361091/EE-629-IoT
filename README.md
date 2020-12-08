@@ -6,7 +6,12 @@
 
 
 ### Weekly Reports
-[11-28-2020] Try the new sensors and implement using sensors to control Leds.  
+
+#### Week 14
+[12-06-2020] Try to use new sensors to control Leds on breadboard.
+[12-01-2020] Determine the theme of final project.
+[12-01-2020] Improve the information and structure of my weekly report according to professor's suggestion.
+#### Week 13
 [11-24-2020] Miss a class because of Thanksgiving...
 #### Week 12
 [11-19-2020] Learn and try to use my Pi to control the Leds on the breadboard.  
