@@ -14,8 +14,8 @@ LEDs
 
 ### Weekly Reports
 #### Week 14
-[12-06-2020] Try to use light sensor and sound sensor to co-control Leds on breadboard.
-[12-01-2020] Determine the theme of final project.
+[12-06-2020] Try to use light sensor and sound sensor to co-control Leds on breadboard.  
+[12-01-2020] Determine the theme of final project.  
 [12-01-2020] Improve the information and structure of my weekly report according to professor's suggestion.
 #### Week 13
 [11-28-2020] Run Hash Function and Blockchain app([Lab 10A](https://github.com/kevinwlu/iot/tree/master/lesson10)).  
