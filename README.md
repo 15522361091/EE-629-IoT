@@ -3,7 +3,13 @@
 
 ### Final Project
 #### Control the LED with gestures basing on Deep Learning
-##### 
+##### Programming Language
+Python
+##### Hardware Requirement
+Raspberry Pi
+Camera
+Breadboard
+
 
 ### Weekly Reports
 
