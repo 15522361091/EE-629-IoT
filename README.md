@@ -9,11 +9,10 @@ Python
 Raspberry Pi  
 Camera  
 Breadboard  
-LED
+LEDs
 
 
 ### Weekly Reports
-
 #### Week 14
 [12-06-2020] Try to use light sensor and sound sensor to co-control Leds on breadboard.
 [12-01-2020] Determine the theme of final project.
