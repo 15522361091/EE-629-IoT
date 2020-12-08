@@ -2,16 +2,17 @@
 ##### [Course Web](https://sites.google.com/view/ece629)
 
 ### Final Project
-
-
+#### Control the LED with gestures basing on Deep Learning
+##### 
 
 ### Weekly Reports
 
 #### Week 14
-[12-06-2020] Try to use new sensors to control Leds on breadboard.
+[12-06-2020] Try to use light sensor and sound sensor to co-control Leds on breadboard.
 [12-01-2020] Determine the theme of final project.
 [12-01-2020] Improve the information and structure of my weekly report according to professor's suggestion.
 #### Week 13
+[11-28-2020] Run Hash Function and Blockchain app([Lab 10A](https://github.com/kevinwlu/iot/tree/master/lesson10)).  
 [11-24-2020] Miss a class because of Thanksgiving...
 #### Week 12
 [11-19-2020] Learn and try to use my Pi to control the Leds on the breadboard.  
@@ -28,7 +29,7 @@
 [11-04-2020] Review the zoom recording and learn about Data Analysis(Big Data, data vitualization, tools in python, some ML methods etc.)  
 [11-03-2020] Miss the class due to the change of class time.....
 #### Week 9
-[10-31-2020] Purchase a breadboard kit(with jumper wires, LEDs, resistors etc.) from Amazon and a sensors kit(45 kinds of sensor) from eBay.  
+[10-31-2020] Purchase a breadboard kit(with jumper wires, LEDs, resistors etc.) from Amazon and a sensors kit from eBay.  
 [10-27-2020] Sign up Google Sheet and start a new spreadsheet rpidata([Lab 7B](https://github.com/kevinwlu/iot/tree/master/lesson7)).  
 [10-27-2020] Sign up Thingspeak, creat a new channel and successfully upload data from local to channel([Lab 7A](https://github.com/kevinwlu/iot/tree/master/lesson7)).  
 [10-27-2020] Learn about several cloud platforms including ThingSpeak, Altair SmartWorks, Google Sheets and Beebotte etc. on class.
