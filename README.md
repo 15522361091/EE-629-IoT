@@ -2,13 +2,14 @@
 ##### [Course Web](https://sites.google.com/view/ece629)
 
 ### Final Project
-#### Control the LED with gestures basing on Deep Learning
-##### Programming Language
+### Control the LED with gestures basing on Deep Learning
+#### Programming Language
 Python
-##### Hardware Requirement
-Raspberry Pi
-Camera
-Breadboard
+#### Hardware Requirement
+Raspberry Pi  
+Camera  
+Breadboard  
+LED
 
 
 ### Weekly Reports
