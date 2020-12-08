@@ -16,6 +16,7 @@ LEDs
 
 ### Weekly Reports
 #### Week 14
+[12-07-2020] Update the information of final project.
 [12-06-2020] Try to use light sensor and sound sensor to co-control Leds on breadboard.  
 [12-01-2020] Determine the theme of final project.  
 [12-01-2020] Improve the information and structure of my weekly report according to professor's suggestion.
