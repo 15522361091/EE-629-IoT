@@ -4,17 +4,17 @@
 
 ## Lab1
 ### Lab1A: Raspberry Pi and Wi-Fi
-My Pi:
-  Raspberry Pi 4B
-  4GB RAM
-  32GB SD Card
-  with WIFI and Bluetooth
-![image]
-![image]
-Install system
-set username and password
-access to network via Wi-Fi
-Reboot
+My Pi:  
+  Raspberry Pi 4B  
+  4GB RAM  
+  32GB SD Card  
+  with WIFI and Bluetooth  
+![image]https://github.com/15522361091/EE629-IoT/blob/master/Labs/Lab1A-0.jpg
+![image]https://github.com/15522361091/EE629-IoT/blob/master/Labs/Lab1A-1.jpg
+Install system  
+set username and password  
+access to network via Wi-Fi  
+Reboot  
 ### Lab1B: Configuration
   Enable SSH, VNC, remote RGIO etc.
 ### Lab 1C: Startup Mailer
