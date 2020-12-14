@@ -4,19 +4,30 @@
 ### Final Project
 ### Control the LEDs with gestures basing on Deep Learning
 #### Description
-Making different gestures in front of the camera to manipulate the LEDs - e.g. adjusting brightness, changing color.
-#### Programming Language
-Python
+Making different gestures in front of the camera to manipulate the RGB LEDs - e.g. adjusting brightness, changing color.
 #### Hardware Requirement
 Raspberry Pi  
 Camera  
 Breadboard  
-LEDs
+RGB LEDs
+Wires
+Resistances
+#### Programming Language
+Python
+#### Important Package
+socket
+GPIO
 
 
 ### Weekly Reports
+#### Week 16
+[12-14-2020] Do all Labs again and show the results in the folder Lab.
+[12-13-2020] [Final Project] 
+#### Week 15
+[12-11-2020] [Final Project] Realtimely send command from PC to Pi via socket.  
+[12-10-2020] [Final Project] Control RGB LED by changing color and adjusting brightness.  
+[12-07-2020] [Final Project] Update the introduction of final project.  
 #### Week 14
-[12-07-2020] Update the information of final project.  
 [12-06-2020] Try to use light sensor and sound sensor to co-control Leds on breadboard.  
 [12-01-2020] Determine the theme of final project.  
 [12-01-2020] Improve the information and structure of my weekly report according to professor's suggestion.
