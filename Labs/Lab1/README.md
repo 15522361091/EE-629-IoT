@@ -14,14 +14,14 @@ Reboot
 ## Lab1B: Configuration
  Enable SSH, VNC, remote RGIO etc.
 ## Lab 1C: Startup Mailer
-Sign-in to Google
-Setup Mail
-Clone IoT repository
-Edit startup_mailer.py
-Run startup_mailer.py
+Sign-in to Google  
+Setup Mail  
+Clone IoT repository  
+Edit startup_mailer.py  
+Run startup_mailer.py  
 ## Lab 1D: SSH and VNC
-Connect to Pi via ssh
-Try some basical command
-Edit sshscript.sh
-Run servedo.net to connect to Pi
+Connect to Pi via ssh  
+Try some basical command  
+Edit sshscript.sh  
+Run servedo.net to connect to Pi  
 ![](Lab1D_0.jpg)
