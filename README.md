@@ -21,7 +21,7 @@ GPIO
 
 ### Weekly Reports
 #### Week 16
-[12-14-2020] Do all Labs again and show the results in the folder [Lab](https://sites.google.com/view/ece629).  
+[12-14-2020] Do all Labs again and show the results in the folder [Lab](https://github.com/15522361091/EE629-IoT/tree/master/Labs).  
 [12-14-2020] [Final Project] Add appropriate comments in code and improve the code structure as well as naming. 
 [12-14-2020] [Final Project] Use the massage sent by PC as command to change the LED color.
 #### Week 15
