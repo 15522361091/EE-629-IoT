@@ -21,10 +21,12 @@ GPIO
 
 ### Weekly Reports
 #### Week 16
-[12-14-2020] Do all Labs again and show the results in the folder Lab.
-[12-13-2020] [Final Project] 
+[12-14-2020] Do all Labs again and show the results in the folder Lab.  
+[12-14-2020] [Final Project] Add appropriate comments in code and improve the code structure as well as naming. 
+[12-14-2020] [Final Project] Use the massage sent by PC as command to change the LED color.
 #### Week 15
-[12-11-2020] [Final Project] Realtimely send command from PC to Pi via socket.  
+[12-12-2020] [Final Project] Use the massage sent by PC as command to increase or decrease the LED brightness.  
+[12-11-2020] [Final Project] Realtimely send massage from PC to Pi via socket.  
 [12-10-2020] [Final Project] Control RGB LED by changing color and adjusting brightness.  
 [12-07-2020] [Final Project] Update the introduction of final project.  
 #### Week 14
