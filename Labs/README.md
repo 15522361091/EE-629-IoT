@@ -9,9 +9,9 @@ My Pi:
   4GB RAM  
   32GB SD Card  
   with WIFI and Bluetooth  
-![](./Lab1A-0.jpg)
-![](./Lab1A-1.jpg)
-Install system  
+![](./Lab1A-0.jpg)  
+![](./Lab1A-1.jpg)  
+Install operation system  
 set username and password  
 access to network via Wi-Fi  
 Reboot  
