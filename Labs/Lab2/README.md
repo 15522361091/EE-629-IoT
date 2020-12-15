@@ -10,7 +10,7 @@ wget https://raw.githubusercontent.com/raspberrypi/linux/rpi-3.10.y/Documentatio
 gcc -o spidev_test spidev_test.c  
 ./spidev_test -D /dev/spidev0.0  
 ```
-Lab 2C: Breadboard
-
-Lab 2D: Light-emitting diode (LED)
+## Lab 2C: Breadboard
+Connet circuit on breadboard
+## Lab 2D: Light-emitting diode (LED)
 Run [led.py](led.py)
