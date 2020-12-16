@@ -11,8 +11,8 @@ gcc -o spidev_test spidev_test.c
 ./spidev_test -D /dev/spidev0.0  
 ```
 ## Lab 2C: Breadboard
-Connet circuit on breadboard
-![](Lab2C_0.jpg)
+Connet circuit on breadboard  
+<img width="300" height="400" src="Lab2C_0.jpg">  
 ## Lab 2D: Light-emitting diode (LED)
-Run [led.py](led.py)
-![](Lab2C_1.jpg)
+Run [led.py](led.py)  
+<img width="300" height="400" src="Lab2C_1.jpg">  
