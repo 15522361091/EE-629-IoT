@@ -22,11 +22,11 @@ imutils
 
 ### Weekly Reports
 #### Week 16
-[12-15-2020] Finish the project, improve the codes, take videos and upload codes on github.  
-[12-15-2020] Test the gesture recognization model and try to use gesture to send command to Pi via socket.  
-[12-15-2020] Collect gesture data and train a gesture recognization model.  
+[12-15-2020] [Final Project]Finish the project, improve the codes, take videos and upload codes on github.  
+[12-15-2020] [Final Project]Test the gesture recognization model and try to use gesture to send command to Pi via socket.  
+[12-15-2020] [Final Project]Collect gesture data and train a gesture recognization model.  
 [12-14-2020] Do all Labs again and show the results in the folder [Lab](https://github.com/15522361091/EE629-IoT/tree/master/Labs).  
-[12-14-2020] [Final Project] Add appropriate comments in code and improve the code structure as well as naming. 
+[12-14-2020] [Final Project] Add appropriate comments in code and improve the code structure as well as naming.  
 [12-14-2020] [Final Project] Use the massage sent by PC as command to change the LED color.
 #### Week 15
 [12-12-2020] [Final Project] Use the massage sent by PC as command to increase or decrease the LED brightness.  
