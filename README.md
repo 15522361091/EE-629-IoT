@@ -1,7 +1,7 @@
 # EE629 - IoT
 ##### [Course Web](https://sites.google.com/view/ece629)
 
-### Final Project: [Controlling the LED by gesture](Final%20Project:%20Controlling%20the%20LED%20by%20Gesture)
+### Final Project: [Controlling the LED by gesture](https://github.com/15522361091/EE629-IoT/edit/master/Final%20Project:%20Controlling%20the%20LED%20by%20Gesture)
 #### Description
 Making different gestures in front of the camera to manipulate the RGB LEDs - e.g. adjusting brightness, changing color.
 #### Hardware Requirement
