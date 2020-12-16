@@ -1,3 +1,3 @@
 # Final Project: Controlling the LED by Gesture
-![](GCL_0.jpg)
+<img width="400" height="300" src="GCL_0.jpg"> 
 ## [Demo Vedio](GCL_demo.mp4)
